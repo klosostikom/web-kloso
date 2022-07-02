@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
   return (
-    <Html class="no-js">
+    <Html className="no-js">
       <Head>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
@@ -67,7 +67,6 @@ export default function Document() {
 
         {/* <!-- Jquery Plugins, main Jquery -->	 */}
         <script src="assets/js/plugins.js"></script>
-        {/* <script src="assets/js/main.js"></script> */}
       </body>
     </Html>
   );
