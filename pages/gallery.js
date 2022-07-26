@@ -1,7 +1,4 @@
-import Head from "next/head";
-import Image from "next/image";
-import Layout from "../component/layout"; 
-import styles from "../styles/Home.module.css";
+import Layout from "../component/layout";
 
 export default function Gallery() {
   return (
