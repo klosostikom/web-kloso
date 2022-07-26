@@ -81,7 +81,6 @@ export default function Blog() {
             <div className="single-blog mb-30">
               <div className="blog-img">
                 <a href="single-blog.html">
-                  {" "}
                   <img src="assets/img/our_blog/workshop.jpg" alt />
                 </a>
               </div>

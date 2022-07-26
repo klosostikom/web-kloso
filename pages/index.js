@@ -1,14 +1,9 @@
-// import Head from "next/head";
-// import Image from "next/image";
 import AboutMe from "../component/aboutme";
 import Blog from "../component/blog";
 import Layout from "../component/layout";
 import OurDivision from "../component/ourdivision";
-// import Preloader from "../component/preload";
 import Proker from "../component/proker";
 import Slider from "../component/slider";
-// import styles from "../styles/Home.module.css";
-// import Script from "next/script";
 
 export default function Home() {
   return (
@@ -34,20 +29,17 @@ export default function Home() {
               <div className="gallery-active owl-carousel">
                 <div className="gallery-img">
                   <a href="#">
-                    <img src="assets/img/gallery/gallery1.jpg" alt />
+                    <img src="assets/img/gallery/nyanyi.JPG" alt />
                   </a>
                 </div>
                 <div className="gallery-img">
                   <a href="#">
-                    <img
-                      src="assets/img/gallery/Outbond Di Umbul Bening.jpg"
-                      alt
-                    />
+                    <img src="assets/img/gallery/outbond.JPG" alt />
                   </a>
                 </div>
                 <div className="gallery-img">
                   <a href="#">
-                    <img src="assets/img/gallery/gallery3.jpg" alt />
+                    <img src="assets/img/gallery/sawer.JPG" alt />
                   </a>
                 </div>
               </div>
