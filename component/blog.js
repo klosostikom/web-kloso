@@ -18,7 +18,7 @@ export default function Blog() {
             {/* Single Blog */}
             <div className="single-blog mb-30">
               <div className="blog-img">
-                <a href="single-blog.html">
+                <a href="">
                   <img src="assets/img/our_blog/Mikrotik Jaringan.jpg" alt />
                 </a>
               </div>
@@ -33,9 +33,7 @@ export default function Blog() {
                 </div>
                 <div className="blog-cap-mid">
                   <p>
-                    <a href="single-blog.html">
-                      Program Kerja Pelatihan Mikrotik Jaringan{" "}
-                    </a>
+                    <a href="">Program Kerja Pelatihan Mikrotik Jaringan </a>
                   </p>
                 </div>
                 {/* Comments */}
@@ -49,7 +47,7 @@ export default function Blog() {
             {/* Single Blog */}
             <div className="single-blog mb-30">
               <div className="blog-img">
-                <a href="single-blog.html">
+                <a href="">
                   <img src="assets/img/our_blog/pelantikan.jpeg" alt />
                 </a>
               </div>
@@ -64,9 +62,7 @@ export default function Blog() {
                 </div>
                 <div className="blog-cap-mid">
                   <p>
-                    <a href="single-blog.html">
-                      Pelantikan Ketua UKM Periode 2022/2022
-                    </a>
+                    <a href="">Pelantikan Ketua UKM Periode 2022/2022</a>
                   </p>
                 </div>
                 {/* Comments */}
@@ -80,7 +76,7 @@ export default function Blog() {
             {/* Single Blog */}
             <div className="single-blog mb-30">
               <div className="blog-img">
-                <a href="single-blog.html">
+                <a href="">
                   <img src="assets/img/our_blog/workshop.jpg" alt />
                 </a>
               </div>
@@ -95,7 +91,7 @@ export default function Blog() {
                 </div>
                 <div className="blog-cap-mid">
                   <p>
-                    <a href="single-blog.html">
+                    <a href="">
                       Workshop Web Desain Pemula Tingkat SMA/SMK Sederajat
                     </a>
                   </p>
