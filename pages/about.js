@@ -14,8 +14,8 @@ export default function About() {
               <div className="row ">
                 <div className="col-md-11 offset-xl-1 offset-lg-1 offset-md-1">
                   <div className="hero-caption">
-                    <span>Gallery</span>
-                    <h2>Our Galleries</h2>
+                    <span>About</span>
+                    <h2>Our About</h2>
                   </div>
                 </div>
               </div>
