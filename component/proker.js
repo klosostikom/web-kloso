@@ -42,7 +42,7 @@ export default function Proker(){
               <div className="col-xl-4 col-lg-6 col-md-6">
                 <div className="single-room mb-50">
                   <div className="room-img">
-                    <a href="gallery.js"> <img src="assets/img/rooms/Camping.JPG" height="235px" alt /></a>
+                    <a href="gallery.js"> <img src="assets/img/gallery/jeongmara.JPG" height="235px" alt /></a>
                   </div>
                   <div className="room-caption">
                     <h3><a href="gallery.js">Out Bond Dies Natalies UKM</a></h3>

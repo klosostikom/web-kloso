@@ -81,13 +81,13 @@ export default function Division() {
                     <div className="col-md-12">
                     <div className="gallery-active owl-carousel">
                         <div className="gallery-img">
-                        <a href="#"><img src="assets/img/gallery/gallery1.jpg" alt /></a>
+                        <a href="#"><img src="assets/img/gallery/outbond.JPG" alt /></a>
                         </div>
                         <div className="gallery-img">
-                        <a href="#"><img src="assets/img/gallery/Mikrotik Jaringan.jpg" alt /></a>
+                        <a href="#"><img src="assets/img/gallery/acara.JPG" alt /></a>
                         </div>
                         <div className="gallery-img">
-                        <a href="#"><img src="assets/img/gallery/Outbond Di Umbul Bening.jpg" alt /></a>
+                        <a href="#"><img src="assets/img/gallery/briefing.JPG" alt /></a>
                         </div>
                     </div>
                     </div>
